@@ -1,7 +1,7 @@
 "Example Description","Cleaned Description","Number of Candidates","Total Votes Recieved","Contested Electorate","Votes Cast in Contested Constitiencies","Percatage of Total Electorate","Percatage of Votes"
 "The Speaker seeking re-election","speakerseekingreelection",1,34617,77572,53692,44.63,64.47
 "Scottish National Party (SNP)","nationalpartysnp",59,1454436,4094784,2910465,35.46,50.16
-"Welsh Conservative Party Candidate/Ymgeisydd Plaid Geidwadol Cymru","conservativeparty",647,11299969,46209246,30552696,24.08,35.79
+"Welsh Conservative Party Candidate","conservativeparty",647,11299969,46209246,30552696,24.08,35.79
 "Welsh Labour/Llafur Cymru","labourparty",631,9347304,45111221,29926050,20.87,32.35
 "Democratic Unionist Party - D.U.P.","democraticunionistpartyd.u.p.",16,184260,1088955,617362,16.90,29.87
 "Sinn Féin","sinnféin",18,176232,1236683,718103,14.10,23.63
@@ -13,13 +13,13 @@
 "Plaid Cymru - The Party of Wales","plaidcymrupartyofwales",40,181704,2282297,1498063,8.39,12.79
 "Respect (George Galloway)","respectgeorgegalloway",2,9022,133832,84043,7.08,11.15
 "Alliance Party","allianceparty",11,44335,745333,434355,6.14,10.45
-"Independent save Withybush Save Lives/ Annibynnol Achub llwynhelyg Achub Bywyda","independentsavewithybushsavelives/annibynnolachubllwynhelygachubbywyda",1,3729,57291,40556,6.51,9.19
+"Independent save Withybush Save Lives","independentsavewithybushsavelives",1,3729,57291,40556,6.51,9.19
 "Welsh Liberal Democrats - Democratiaid Rhyddfrydol Cymru","liberaldemocrats",631,2418893,45111221,29926050,5.35,7.83
 "Alliance","alliance",7,17221,491350,283748,3.61,6.48
 "Traditional Unionist Voice - TUV","traditionalunionistvoicetuv",7,16538,473571,262515,3.38,6.12
 "Annibynnol-Independent","annibynnolindependent",1,1388,44395,28913,3.13,4.80
 "Green Party/Plaid Werdd","greenparty",573,1157613,41023812,27157251,2.77,4.18
-"Poole People - independent and local","poolepeopleindependentandlocal",1,1766,72557,47393,2.43,3.73
+"Poole People - independent and local","poolepeople",1,1766,72557,47393,2.43,3.73
 "Rochdale First Party","rochdalefirstparty",1,1535,79170,45430,1.94,3.38
 "Residents for Uttlesford","residentsforuttlesford",1,1658,80615,57563,2.06,2.88
 "The Liberal Party","liberalparty",3,3815,213847,140471,1.85,2.83
@@ -35,7 +35,7 @@
 "Independent/Annibynnol","independent/annibynnol",1,459,61719,32715,0.74,1.40
 "The North East Party","norastparty",4,2138,259893,160005,0.83,1.39
 "The Workers Party","workersparty",5,2724,344032,203020,0.80,1.37
-"Socialist Labour Party/Plaid Lafur Sosialaidd","socialistlabourparty/plaidlafursosialaidd",8,3481,427178,272713,0.81,1.28
+"Socialist Labour Party/Plaid Lafur Sosialaidd","socialistlabourparty",8,3481,427178,272713,0.81,1.28
 "Yorkshire First","yorkshirefirst",6,3332,430384,259884,0.76,1.27
 "Liberal Party Candidate And Local Resident","liberalpartyandlocalresident",1,665,78580,53817,0.85,1.24
 "Locally Informed Health and Social Care","locallyinformedhealthandsocialcare",1,637,73724,52302,0.86,1.22
@@ -49,12 +49,12 @@
 "A voice for the region","avoiceforregion",8,3479,597776,396741,0.58,0.89
 "We Are The Reality Party","wearerealityparty",3,1029,216646,134710,0.47,0.79
 "Christian Movement for Great Britain","christianmovementforgreatbritain",1,292,76401,42231,0.38,0.69
-"National Liberal Party-Self determination for all","nationalliberalpartyselfdeterminationforall",2,627,138714,94543,0.47,0.69
-"Nothing borrowed. Nothing old. Something New","nothingborrowed.nothingold.somethingnew",1,375,78181,56925,0.48,0.66
+"National Liberal Party-Self determination for all","nationalliberalparty",2,627,138714,94543,0.47,0.69
+"Nothing borrowed. Nothing old. Something New","nothingborrowed",1,375,78181,56925,0.48,0.66
 "Trade Unionist and Socialist Coalition","tradeunionistandsocialistcoalition",124,32961,8821526,5553062,0.37,0.61
 "Vote for real people, not politicians!","voteforrealpeople,notpoliticians!",1,216,68128,35916,0.32,0.60
 "Cannabis is Safer than Alcohol","cannabisissaferthanalcohol",32,8419,2283215,1445292,0.37,0.60
-"Left Unity - Trade Unionists and Socialists (Joint Description with Left Unity)","leftunitytradeunionistsandsocialistsjointdescriptionwithleftunity",1,292,80507,51561,0.36,0.57
+"Left Unity - Trade Unionists and Socialists","leftunitytradeunionistsandsocialists",1,292,80507,51561,0.36,0.57
 "Something New","somethingnew",1,320,77050,57119,0.42,0.56
 "Left Unity- Trade Unionist and Socialists","leftunitytradeunionistandsocialists",4,1046,302050,203876,0.35,0.54
 "Alliance For Green Socialism - Save NHS","allianceforgreensocialismsavenhs",3,737,204582,139387,0.35,0.52
@@ -66,8 +66,8 @@
 "Scottish Socialist Party","socialistparty",4,875,263714,178850,0.33,0.49
 "The Pirate Party","pirateparty",3,642,237382,132765,0.27,0.48
 "All People's Party","allpeople'sparty",4,981,313924,203911,0.31,0.48
-"English Democrats - ""Putting England First!""","englishdemocrats""puttingenglandfirst!""",31,6431,2174239,1386541,0.29,0.48
-"The Peace Party - Non-violence, Justice, Environment","peacepartynonviolence,justice,environment",4,957,297622,199036,0.32,0.48
+"English Democrats - Putting England First!","englishdemocrats",31,6431,2174239,1386541,0.29,0.48
+"The Peace Party - Non-violence, Justice, Environment","peacepartynonviolence",4,957,297622,199036,0.32,0.48
 "Common Sense Party","commonsenseparty",1,256,79666,57267,0.32,0.45
 "British National Party","britishnationalparty",8,1667,564765,376865,0.29,0.44
 "Pirate Party UK","piratepartyuk",2,382,154657,89960,0.25,0.43
